@@ -1,4 +1,4 @@
-QuickDefine's scripts are designed to be run in order: M1--> M2 --> M3
+QuickDefine's scripts are designed to be run in order: M1 --> M2 --> M3
 
 Required Files for each module:
 M1: dataframe.csv
