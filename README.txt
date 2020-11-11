@@ -7,9 +7,7 @@ M3: syntactic_analysis/constituency_parse_dict_top.txt, kw_clean.txt
 *note: any additional files are previous outputs.
 
 
-
 Syntactic_analysis folder contains script for syntactic analysis of Oxford's Dictionary of Computer Science.
-
 
 
 For further info on how to run, refer to 'final_report.pdf' Methodology.
